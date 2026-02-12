@@ -1,0 +1,4 @@
+I implemented a custom ColorScheme with red to match the pokeball/pokemon colours. I created a clear visual hierarchy by using headlineMedium 
+for the Pokemon names and themed body styles for the stats, as i wanted to make sure that most important data stands out. I used Cards, Padding, and
+ SizedBoxes to separate content to make everything look more organized, and I included a GestureDetector which toggles additional information like 
+ the "Base XP" only when needed.
